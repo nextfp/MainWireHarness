@@ -5,13 +5,13 @@ NASだとファイルの履歴が残りませんが、githubだと履歴が残�
 
 ## リポジトリの解説
 ### ディレクトリの解説
-│  MainWireHarness.SLDASM 
-│  README.md
-└─data: CAD以外のデータ(メモ書きなど)を入れましょう。
-└─part : アセンブリで使うパーツはこのファイルに入っています。
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;├─connector : コネクターや端子台
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;└─part : その他電子部品
-
+│  MainWireHarness.SLDASM   
+│  README.md  
+└─data: CAD以外のデータ(メモ書きなど)を入れましょう。  
+└─part : アセンブリで使うパーツはこのファイルに入っています。  
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;├─connector : コネクターや端子台  
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;└─part : その他電子部品  
+ 
 ### ASSYの解説
 ![alt image](data/circuit.png)
 

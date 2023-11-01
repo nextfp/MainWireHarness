@@ -26,9 +26,9 @@ NASだとファイルの履歴が残りませんが、githubだと履歴が残�
 >pushやcloneでファイル名が文字化けし、参照が外れる危険があるので。
 
 * ファイル名はアッパーキャメルケースで書くこと
->Main wire harness → MainWireHarness
->mainWireHarness → MainWireHarness
->ちなみに私(天竺桂)の好みです。
+>Main wire harness → MainWireHarness  
+>mainWireHarness → MainWireHarness  
+>ちなみに私の好みです。好みなので、好きなようにファイル名の決まりをつけて結構ですが、ファイル名の決まりは統一しましょう。  
 
 * 基本的にはローマ字で命名しないで、英語で名前をつけてあげましょう
 
